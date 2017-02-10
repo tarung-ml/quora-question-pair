@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*.pyc
+*.gpickle
+*.egg-info/
+data_split/
+BayesianOptimization/
+xgboost/
+word2vec/data/
+word2vec/model/
+*.pickle
+*.json
+*.h5

@@ -1,0 +1,5 @@
+Logistic Regression 0.471555144517
+Two-layer NN 0.077063
+Regularized Gradient Boosting 0.517951
+Extremely Randomized Trees 0.508926466151
+Ensemble Model 0.505009506179

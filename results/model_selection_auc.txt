@@ -1,0 +1,6 @@
+SVM0.766688192023
+Regularized Gradient Boosting0.804139571749
+Logistic regression0.795412210138
+Extremely Randomized Trees0.808392346704
+Ensemble Model0.821886168118
+Two-layer NN0.890476634546
