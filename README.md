@@ -4,13 +4,15 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
+* exploration of quora-question-pair data-set
 * word2vec - given text-data, trains word-vectors and visualizes them via connected components.
+* perform deep question pair classification 
 
 ### How do I get set up? ###
 
-* Clone repo 'nlp'
+* Clone repo
 * Install Anaconda (to setup virtual env and load dependencies)
-* cd nlp
+* cd into repo
 * conda env create -f environment.yml
 * source activate deep-nlp
 
